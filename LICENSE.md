@@ -1,4 +1,4 @@
-# 
+# advanced opensea sniper bot | floor-sweeping + price-impact-analysis is the best opensea sniper bot, featuring floor-sweeping and price-impact-analysis. Fast, smart, and optimized
 
 
 
